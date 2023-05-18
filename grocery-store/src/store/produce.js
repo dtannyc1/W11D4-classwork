@@ -22,4 +22,8 @@ export const populateProduce = () => {
     })
 }
 
+export const likeProduce = () => {
+    
+}
+
 // window.populateProduce = populateProduce;
